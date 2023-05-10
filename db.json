@@ -1,16 +1,31 @@
 {
-  "posts":[
+  "garage": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Tesla",
+      "color": "#e6e6fa",
+      "id": 1
+    },
+    {
+      "name": "BMW",
+      "color": "#fede00",
+      "id": 2
+    },
+    {
+      "name": "Mersedes",
+      "color": "#6c779f",
+      "id": 3
+    },
+    {
+      "name": "Ford",
+      "color": "#ef3c40",
+      "id": 4
     }
   ],
-  "comments" : [
+  "winners": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "wins": 1,
+      "time": 10
     }
   ]
 }
